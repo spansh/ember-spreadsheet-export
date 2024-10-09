@@ -1,1 +1,4 @@
-export { default, initialize } from '@linc-technologies/ember-spreadsheet-export/services/csv';
+export {
+  default,
+  initialize,
+} from '@linc-technologies/ember-spreadsheet-export/services/csv';
