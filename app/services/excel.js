@@ -1,1 +1,1 @@
-export { default, initialize } from 'ember-spreadsheet-export/services/excel';
+export { default, initialize } from '@linc-technologies/ember-spreadsheet-export/services/excel';

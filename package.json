@@ -1,5 +1,5 @@
 {
-  "name": "ember-spreadsheet-export",
+  "name": "@linc-technologies/ember-spreadsheet-export",
   "version": "0.6.0",
   "description": "Provides ability to export a set of json data as excel or csv file.",
   "keywords": [
@@ -10,12 +10,9 @@
     "csv",
     "spreadsheet"
   ],
-  "repository": "https://github.com/pauln/ember-spreadsheet-export",
+  "repository": "https://github.com/linc-technologies/ember-spreadsheet-export",
   "license": "MIT",
-  "author": "Matt Armstrong",
-  "contributors": [
-    "Paul Nicholls"
-  ],
+  "author": "Paul Nicholls <pauln@linc-ed.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
